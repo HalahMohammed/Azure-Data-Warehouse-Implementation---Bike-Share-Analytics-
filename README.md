@@ -7,8 +7,8 @@ Since the data from Divvy are anonymous, we have created fake rider and account 
 
 The goal of this project is to develop a data warehouse solution using Azure Synapse Analytics. You will:
 
-Design a star schema based on the business outcomes listed below;
-Import the data into Synapse;
-Transform the data into the star schema;
-and finally, view the reports from Analytics.
+- Design a star schema based on the business outcomes listed below;
+- Import the data into Synapse;
+- Transform the data into the star schema;
+- and finally, view the reports from Analytics.
 
