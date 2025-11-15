@@ -61,18 +61,7 @@ Once in Blob storage, the files will be shown in the data lake node in the Synap
 
 <img width="1495" height="880" alt="image" src="https://github.com/user-attachments/assets/ab7e0c20-46ef-41cd-8085-b4f45de7a24a" />
 
-# Schema Verification
 
-
-
-
-
-
-
-
-
-
-<img width="1492" height="921" alt="Screenshot 2025-11-15 043814" src="https://github.com/user-attachments/assets/3e476ec8-e10f-4d0c-9f35-2c657c9f1488" />
 
 # Verify Data Counts in Final Tables
 
