@@ -12,3 +12,6 @@ The goals of this project as following :
 - Transform the data into the star schema;
 - and finally, view the reports from Analytics.
 
+<img width="940" height="566" alt="image" src="https://github.com/user-attachments/assets/41055e02-f4ee-4c5a-b1ac-a224d25e04f1" />
+
+
